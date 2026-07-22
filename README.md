@@ -1,36 +1,213 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 QuantumQuest
 
-## Getting Started
+## Interactive Quantum Computing Learning Platform
 
-First, run the development server:
+> **Making quantum technology understandable through interactive simulations, visual learning, and gamified exploration.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+QuantumQuest is a next-generation educational platform designed to transform complex quantum computing concepts into engaging, visual, and interactive experiences.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Instead of only reading equations and theory, users can **see, manipulate, simulate, and understand** quantum phenomena through interactive visualizations.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# 🌌 Vision
 
-## Learn More
+Quantum computing is one of the most revolutionary technologies of the future, but it remains difficult to learn because concepts like:
 
-To learn more about Next.js, take a look at the following resources:
+- Superposition
+- Entanglement
+- Quantum Measurement
+- Quantum Gates
+- Quantum Cryptography
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+are highly abstract.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**QuantumQuest bridges this gap by combining:**
 
-## Deploy on Vercel
+🧠 Wikipedia-level structured knowledge  
+⚛️ IBM-inspired quantum concepts  
+🎨 Modern Figma-quality interface  
+📊 Visual learning inspired by Visualgo  
+🎮 Gamified education experience  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# ✨ Features
+
+## ⚛️ Interactive Quantum Learning
+
+Explore quantum concepts through structured lessons:
+
+- Quantum States
+- Qubits
+- Superposition
+- Measurement
+- Quantum Entanglement
+- Quantum Gates
+- Quantum Algorithms
+- Quantum Communication
+- Quantum Hardware
+
+
+Each topic includes:
+
+✅ Scientific explanation  
+✅ Visual representation  
+✅ Interactive examples  
+✅ Learning progression  
+✅ Challenges and quizzes  
+
+
+---
+
+# 🔮 Quantum Simulators
+
+## 1. Qubit Bloch Sphere Visualizer
+
+Understand quantum states visually.
+
+Features:
+
+- Interactive Bloch sphere
+- State vector visualization
+- Probability amplitudes
+- Quantum state manipulation
+- Measurement collapse demonstration
+
+
+---
+
+## 2. BB84 Quantum Key Distribution Simulator
+
+Experience real quantum cryptography.
+
+Simulation includes:
+
+Alice → Photon Transmission → Eve Attack → Bob Measurement
+
+
+Visualizes:
+
+- Basis selection
+- Quantum states
+- Interception detection
+- Secret key generation
+- Quantum Bit Error Rate (QBER)
+
+
+---
+
+## 3. Quantum Gate Playground
+
+Experiment with quantum circuits.
+
+Supported gates:
+
+- Hadamard Gate (H)
+- Pauli-X Gate
+- Pauli-Y Gate
+- Pauli-Z Gate
+- CNOT Gate
+
+
+Understand how quantum operations transform states.
+
+---
+
+## 4. Entanglement Visualizer
+
+Explore quantum correlations.
+
+Learn:
+
+- Entangled particles
+- Measurement correlation
+- Non-classical quantum behavior
+
+
+---
+
+## 5. Quantum Teleportation Visualizer
+
+Understand how quantum information can be transferred using:
+
+- Entangled pairs
+- Classical communication
+- Quantum measurement
+
+
+---
+
+# 🎮 Gamified Learning System
+
+QuantumQuest turns learning into progression.
+
+Includes:
+
+🏆 XP System  
+🔥 Learning Streaks  
+🎖️ Achievements  
+📚 Missions  
+⭐ Skill Progression  
+
+
+Example achievements:
+
+- Qubit Beginner
+- Quantum Explorer
+- Entanglement Master
+- Quantum Security Expert
+
+
+---
+
+# 👤 Professional Learning Dashboard
+
+A personalized quantum learning profile.
+
+Includes:
+
+- User profile
+- Learning progress
+- Completed modules
+- Skills
+- Achievements
+- Certificates
+- XP tracking
+
+
+---
+
+# 🛠️ Technology Stack
+
+## Frontend
+
+- Next.js 15
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+
+## Visualization
+
+- Three.js
+- React Three Fiber
+- Interactive animations
+
+
+## State Management
+
+- Zustand
+
+
+## Development Tools
+
+- ESLint
+- Vercel Deployment
+- GitHub
+
+
+---
+
+# 🏗️ Project Architecture
