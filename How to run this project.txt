@@ -1,0 +1,1 @@
+PS C:\Users\Dell\Desktop\Projects\QuantumQuest> npm run dev
